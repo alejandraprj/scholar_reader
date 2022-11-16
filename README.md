@@ -1,4 +1,4 @@
-# google_scholar
+# parsing articles in google scholar
 Program to obtain feeds w/ results from Google Scholar
 Execute  : In the command line, write: 
            # python3 scholar2csv.py <source> <path>
